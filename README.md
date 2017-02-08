@@ -7,6 +7,6 @@ pip install scrapy
 ```
 Run the spider:
 ```shell
-cd yplan_deadlink_finde
+cd yplan_deadlink_finder
 scrapy crawl deadlink_finder
 ```
