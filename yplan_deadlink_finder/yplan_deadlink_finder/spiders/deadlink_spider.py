@@ -1,7 +1,6 @@
 import scrapy
 import requests
 import logging
-import re
 from datetime import datetime
 
 YPLAN_BASE_URL = 'yplanapp.com'
